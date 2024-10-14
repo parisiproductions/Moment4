@@ -28,8 +28,6 @@ window.onload = init;
 function init(){
 console.log("Initierar......");
 
-
-
 //"Lägg-till"-knappen är inaktiverad när sidan laddas in. Man måste börja skriva för att något ska hända, antingen kunna lägga till eller få felmeddelande
 addToDoButtonEl.disabled = true;
 
