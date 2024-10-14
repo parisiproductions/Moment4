@@ -1,9 +1,8 @@
 # Moment 4 (DOM & Events) i kursen DT084G, Introduktion till programmering i JavaScript
 
 ## En "to-do"-list:
-### Av Yasmine Parisi, 2024
+### Av Yasmine Parisi, 2024-10-14.
 ### Student-ID: Yapa1000
-# <3
 
 
 
